@@ -1,3 +1,5 @@
 # This is header 1
 ## This is header 2
 This is for testing the markdown headers.
+And the bottom is for testing the images.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
