@@ -8,3 +8,7 @@ The bottom right here is for testing the code blocks in markdowns.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+This is for testing the task list in markdowns.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
